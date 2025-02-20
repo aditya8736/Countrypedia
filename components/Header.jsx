@@ -8,7 +8,7 @@ export default function Header() {
       <div className="header-content">
         <h2 className="title">
           <a href="/">
-          <i class="fa-solid fa-globe"></i> &nbsp;&nbsp;
+          <i class="fa-solid fa-globe"></i> &nbsp;
           CountriesPedia
           </a>
         </h2>
